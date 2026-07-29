@@ -9,6 +9,10 @@
 
 Most "AI support bots" stop at generating a polite reply. This one does the operational work that actually costs support teams money: it reads the message, judges the emotional temperature, classifies the issue, assigns priority and ownership, stamps an SLA, and writes a complete ticket record to a live database — without a human touching it.
 
+## 🎥 Live Demo
+
+▶️ [Watch the 60-second Demo] (https://www.loom.com/share/26caa7fc722a4c4aa53bfdd45c31d85a)
+
 ---
 
 ## 🎯 Business Problem
