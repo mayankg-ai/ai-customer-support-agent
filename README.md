@@ -221,7 +221,7 @@ The Sheet becomes a live analytics layer — category volume trends, sentiment o
 ## 📸 Screenshots
 
 ### 1. n8n Workflow Architecture
-![n8n Workflow](assets/screenshots/workflow.png)
+![n8n Workflow] worflow.png
 *The complete agent workflow — chat trigger, AI Agent orchestration, Gemini model, conversation memory, and Google Sheets tooling.*
 
 ### 2. AI Agent Responding to a Customer
